@@ -1,0 +1,7 @@
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\bin\Debug\klaseObjekti01.exe.config
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\bin\Debug\klaseObjekti01.exe
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\bin\Debug\klaseObjekti01.pdb
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\obj\Debug\klaseObjekti01.csproj.AssemblyReference.cache
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\obj\Debug\klaseObjekti01.csproj.CoreCompileInputs.cache
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\obj\Debug\klaseObjekti01.exe
+C:\Users\učenik\source\repos\klaseObjekti01\klaseObjekti01\obj\Debug\klaseObjekti01.pdb
